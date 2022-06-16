@@ -1,5 +1,5 @@
 ## Nota
-Cascaron vacio para proyectos webpack sin comentarios
+App Todo terminada 
 
 Recordar reconstruir los modulos Node
 ```
